@@ -1,74 +1,110 @@
 package pages;
 
+
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
+
 import org.openqa.selenium.WebElement;
+
 import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.FindBys;
+
+import driver.FactoryDriver;
 import utils.ExplicitWait;
 import utils.LogUtils;
 import utils.ScrollUtils;
-import java.util.List;
 
-/***
- * This class describes Seats Selection Page
- * PageFactory is used for Page Object
- * It adds lazy evaluation
- * which means that Page Element is initialized only when it's called by method
- * instead of instant initialization when object of page is created
- */
-public class FlightsBookingSeatsSelectionPage extends BasePage{
+public class FlightsBookingSeatsSelectionPage extends BasePage {
 
-    @FindBy(css = "button.same-seats")
-    private WebElement selectSeatsConfirmButton;
+	@FindBy(xpath = "//button[contains(text(),'Okay, got it.')]")
+	private WebElement okayButton;
 
-    @FindBys (@FindBy(css = "span.standard span.seat-click"))
-    private List<WebElement> selectSeatButtonList;
+	@FindBy(xpath = "//seat-map")
+	private WebElement seatMap;
 
-    @FindBy(css = "button-spinner")
-    private WebElement confirmButton;
+	@FindBy(xpath = "//ry-overlay")
+	private WebElement overLay;
 
-    @FindBy(css = "a.priority-boarding-with-bags-popup__close")
-    private WebElement declineBagsPriorityButton;
+	@FindBy(xpath = "//button[contains(text(),'Continue')]")
+	private WebElement continueButton;
 
-    @FindBy(css = "div.confirm-seats-table")
-    private WebElement confirmSeatsTable;
+	@FindBy(xpath = "//button[@class='reinforcement-message__actions__button b2 ry-button--gradient-yellow ng-star-inserted']")
+	private WebElement continueButton2;
 
-    @FindBy(css = "div.seat-map-scrolling-body")
-    private WebElement seatMap;
+	@FindBy(xpath = "//button[contains(text(),'No, thanks')]")
+	private WebElement NoThanks;
 
-    public void clickSelectSeatsConfirmButton(){
-        LogUtils.logInfo("Confirm seats selection information message");
-        ExplicitWait.elementToBeClickable(selectSeatsConfirmButton);
-        selectSeatsConfirmButton.click();
-    }
+	@FindBy(xpath = "//button[@class='ng-star-inserted seatmap__seat seatmap__seat--standard']")
+	private List<WebElement> seats;
 
-    /***
-     * Use JavascriptExecutor to scroll top seat selection pop up
-     */
-    public void selectSeats(int numberOfSeats){
-        ExplicitWait.visibilityOfElements(selectSeatButtonList);
-        LogUtils.logInfo("Scroll top seat map page");
-        ScrollUtils.scrollTopWithinWebElement(seatMap, 100);
-        for(int i=0; i<numberOfSeats; i++){
-            LogUtils.logInfo("Select seat for passenger");
-            selectSeatButtonList.get(i).click();
-        }
-    }
+	@FindBy(css = "div.seatmap__seatrow")
+	private List<WebElement> seatRows;
 
-    public void clickReviewSeatsButton(){
-        LogUtils.logInfo("Click 'Review Seats' button");
-        confirmButton.click();
-    }
+	public void closeFamilySeatingPopup() {
+		ExplicitWait.visibilityOfElement(okayButton);
+		okayButton.click();
 
-    public void clickConfirmButton(){
-        LogUtils.logInfo("Click 'Confirm' seats button");
-        ExplicitWait.visibilityOfElement(confirmSeatsTable);
-        confirmButton.click();
+	}
 
-    }
+	/**
+	 * 
+	 * Below Code selects the seats for 2Adults and 1 Child
+	 */
 
-    public void declineBagsPriority(){
-        LogUtils.logInfo("Decline 'Bags Priority' offer");
-        ExplicitWait.elementToBeClickable(declineBagsPriorityButton);
-        declineBagsPriorityButton.click();
-    }
+	public void chooseConsecutiveSeats() throws InterruptedException {
+		ExplicitWait.visibilityOfElement(seatMap);
+		boolean isSingleUserOccupied = false, isDoubleUserOccupied = false;
+		for (int j = 0; j < seatRows.size(); j++) {
+			LogUtils.logInfo(j + "");
+			List<WebElement> columns = seatRows.get(j).findElements(By.cssSelector("button.seatmap__seat--standard"));
+			for (int i = 0; i < columns.size(); i++) {
+				LogUtils.logInfo(i + "");
+				if (isSingleUserOccupied && isDoubleUserOccupied) {
+					break;
+				}
+				if (!isDoubleUserOccupied && i < columns.size() - 1) {
+					String currente1 = columns.get(i).getAttribute("id");
+					String currente2 = columns.get(i + 1).getAttribute("id");
+					try {
+						if (FactoryDriver.getInstance()
+
+								.findElement(By.cssSelector("#" + currente1 + "+" + "#" + currente2)) != null) {
+							LogUtils.logInfo("Consecutive seats ");
+							ScrollUtils.clickElement(columns.get(i));
+							LogUtils.logInfo(columns.get(i).getText());
+							ScrollUtils.clickElement(columns.get(i + 1));
+							LogUtils.logInfo(columns.get(i + 1).getText());
+
+							isDoubleUserOccupied = true;
+							i += 2;
+						}
+					} catch (NoSuchElementException e) {
+
+					}
+				}
+				if (!isSingleUserOccupied) {
+					LogUtils.logInfo(columns.get(i).getText());
+					ScrollUtils.clickElement(columns.get(i));
+					isSingleUserOccupied = true;
+				}
+			}
+			if (isSingleUserOccupied && isDoubleUserOccupied) {
+				break;
+			}
+
+		}
+
+	}
+
+	public void addSeats() throws InterruptedException {
+
+	
+		ExplicitWait.visibilityOfElement(continueButton);
+		continueButton.click();
+		ExplicitWait.visibilityOfElement(NoThanks);
+		NoThanks.click();
+
+	}
+
 }

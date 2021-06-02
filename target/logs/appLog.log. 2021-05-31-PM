@@ -1,0 +1,1228 @@
+2021 May 31 12:17:41 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 12:17:41 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 12:17:41 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 12:17:49 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 12:18:02 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 12:18:02 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 12:18:02 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 12:18:02 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 12:18:04 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 12:18:04 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 12:18:06 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 12:18:06 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 12:28:02 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 12:28:03 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 12:28:03 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 12:28:10 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 12:28:23 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 12:28:23 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 12:28:23 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 12:28:24 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 12:28:25 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 12:28:26 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 12:28:27 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 13:02:49 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 13:02:49 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 13:02:49 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 13:02:57 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 13:03:11 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 13:03:11 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 13:03:11 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 13:03:11 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 13:03:13 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 13:03:13 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 13:03:15 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 13:03:15 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 13:03:15 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 13:03:16 INFO  LogUtils.logInfo - Open 'Passengers' dropdown
+2021 May 31 13:03:27 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 13:12:37 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 13:12:37 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 13:12:37 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 13:12:45 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 13:12:59 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 13:12:59 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 13:12:59 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 13:13:00 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 13:13:01 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 13:13:02 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 13:13:03 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 13:13:03 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 13:13:05 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 13:13:05 INFO  LogUtils.logInfo - Open 'Passengers' dropdown
+2021 May 31 13:14:04 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 13:16:02 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 13:16:02 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 13:16:02 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 13:16:10 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 13:16:24 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 13:16:24 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 13:16:24 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 13:16:24 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 13:16:26 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 13:16:26 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 13:16:29 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 13:16:29 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 13:16:30 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 13:16:30 INFO  LogUtils.logInfo - Open 'Passengers' dropdown
+2021 May 31 13:17:30 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 13:20:33 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 13:20:33 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 13:20:33 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 13:20:41 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 13:20:52 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 13:20:52 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 13:20:52 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 13:20:52 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 13:20:54 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 13:20:54 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 13:20:56 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 13:20:58 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 13:20:59 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 13:21:00 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 13:22:13 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 13:22:13 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 13:22:13 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 13:22:21 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 13:22:33 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 13:22:33 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 13:22:33 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 13:22:34 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 13:22:35 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 13:22:36 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 13:22:37 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 13:22:37 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 13:22:39 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 13:22:39 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 13:22:39 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 13:25:36 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 13:25:36 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 13:25:36 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 13:25:44 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 13:25:52 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 13:25:52 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 13:25:52 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 13:25:53 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 13:25:54 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 13:25:54 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 13:25:56 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 13:27:34 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 13:27:34 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 13:27:34 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 13:27:42 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 13:27:55 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 13:27:55 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 13:27:56 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 13:27:57 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 13:27:58 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 13:27:58 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 13:28:00 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 13:28:00 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 13:28:01 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 13:28:31 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 13:33:36 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 13:33:36 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 13:33:36 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 13:33:44 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 13:33:56 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 13:33:56 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 13:33:56 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 13:33:57 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 13:33:58 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 13:33:59 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 13:34:00 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 13:34:03 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 13:35:46 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 13:35:46 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 13:35:46 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 13:35:53 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 13:36:04 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 13:36:04 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 13:36:04 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 13:36:05 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 13:36:06 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 13:36:06 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 13:36:08 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 13:36:09 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 13:36:11 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 13:37:08 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 13:48:51 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 13:48:51 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 13:48:51 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 13:48:59 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 13:49:10 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 13:49:10 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 13:49:10 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 13:49:11 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 13:49:12 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 13:49:12 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 13:49:14 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 13:49:14 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 13:50:26 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 13:50:27 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 13:50:27 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 13:50:34 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 13:50:44 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 13:50:44 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 13:50:44 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 13:50:45 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 13:50:46 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 13:50:46 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 13:50:48 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 13:50:48 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 13:50:49 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 13:50:51 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 13:50:51 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 13:54:16 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 13:54:16 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 13:54:16 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 13:54:24 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 13:54:34 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 13:54:34 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 13:54:34 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 13:54:35 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 13:54:36 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 13:54:37 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 13:54:38 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 14:22:27 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 14:22:27 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 14:22:27 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 14:22:35 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 14:22:46 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 14:22:46 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 14:22:47 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 14:22:47 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 14:22:49 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 14:22:49 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 14:22:51 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 14:22:51 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 14:22:52 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 14:22:54 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 14:22:54 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 14:44:29 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 14:44:29 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 14:44:29 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 14:44:37 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 14:44:48 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 14:44:48 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 14:44:48 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 14:44:49 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 14:44:50 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 14:44:50 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 14:44:52 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 14:44:52 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 14:44:53 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 14:44:54 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 14:44:55 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 14:44:55 INFO  LogUtils.logInfo - Click ticket 'Price' button
+2021 May 31 14:45:55 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 15:07:35 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 15:07:35 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 15:07:35 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 15:07:43 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 15:07:55 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 15:07:55 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 15:07:55 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 15:07:56 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 15:07:57 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 15:07:58 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 15:07:59 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 15:07:59 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 15:08:01 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 15:08:03 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 15:08:03 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 15:08:39 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 15:11:10 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 15:11:10 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 15:11:10 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 15:11:17 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 15:11:29 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 15:11:29 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 15:11:29 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 15:11:29 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 15:11:31 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 15:11:31 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 15:11:32 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 15:11:33 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 15:11:34 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 15:11:36 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 15:11:36 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 15:12:11 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 15:19:52 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 15:19:52 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 15:19:52 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 15:20:00 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 15:20:22 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 15:20:22 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 15:20:22 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 15:20:23 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 15:20:24 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 15:20:25 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 15:20:26 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 15:20:26 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 15:20:27 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 15:20:29 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 15:20:29 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 15:20:36 INFO  LogUtils.logInfo - Confirm seats selection information message
+2021 May 31 15:21:36 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 16:03:54 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 16:03:54 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 16:03:54 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 16:04:04 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 16:04:18 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 16:04:18 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 16:04:18 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 16:04:20 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 16:04:21 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 16:04:22 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 16:04:24 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 16:04:25 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 16:04:27 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 16:04:30 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 16:04:30 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 16:04:37 INFO  LogUtils.logInfo - Confirm seats selection information message
+2021 May 31 16:05:38 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 16:08:14 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 16:08:14 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 16:08:14 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 16:08:23 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 16:08:37 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 16:08:37 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 16:08:37 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 16:08:39 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 16:08:40 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 16:08:41 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 16:08:42 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 16:08:44 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 16:08:45 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 16:08:48 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 16:08:48 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 16:09:26 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 16:11:41 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 16:11:41 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 16:11:41 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 16:11:51 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 16:12:06 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 16:12:06 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 16:12:06 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 16:12:07 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 16:12:08 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 16:12:09 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 16:12:11 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 16:12:12 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 16:12:14 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 16:12:16 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 16:13:17 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 16:13:17 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 16:13:17 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 16:13:28 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 16:13:28 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 16:13:28 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 16:13:28 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 16:13:38 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 16:13:50 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 16:13:50 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 16:13:51 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 16:13:52 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 16:13:55 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 16:13:55 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 16:13:57 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 16:13:58 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 16:14:01 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 16:14:05 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 16:14:05 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 16:14:11 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 16:14:11 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 16:14:16 INFO  LogUtils.logInfo - Confirm seats selection information message
+2021 May 31 16:14:17 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 16:14:21 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 16:14:24 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 16:14:24 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 16:14:30 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 16:14:30 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 16:14:32 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 16:14:35 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 16:14:35 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 16:15:02 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 16:15:16 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 16:17:24 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 16:17:25 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 16:17:25 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 16:17:34 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 16:17:49 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 16:17:49 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 16:17:50 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 16:17:51 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 16:17:52 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 16:17:53 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 16:17:54 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 16:17:55 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 16:17:56 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 16:17:59 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 16:17:59 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 16:18:35 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 16:21:36 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 16:21:36 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 16:21:36 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 16:21:46 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 16:22:02 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 16:22:02 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 16:22:02 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 16:22:03 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 16:22:05 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 16:22:05 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 16:22:07 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 16:22:08 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 16:22:10 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 16:22:12 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 16:22:13 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 16:22:49 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 16:25:40 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 16:25:40 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 16:25:40 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 16:25:49 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 16:26:02 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 16:26:02 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 16:26:02 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 16:26:03 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 16:26:04 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 16:26:04 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 16:26:06 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 16:26:06 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 16:26:07 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 16:26:10 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 16:26:10 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 16:26:17 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 16:30:27 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 16:30:27 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 16:30:27 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 16:30:36 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 16:30:49 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 16:30:50 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 16:30:50 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 16:30:50 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 16:30:51 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 16:30:52 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 16:30:53 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 16:30:55 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 16:30:56 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 16:30:58 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 16:30:59 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 16:31:38 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 16:35:31 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 16:35:31 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 16:35:31 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 16:35:39 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 16:35:51 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 16:35:51 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 16:35:51 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 16:35:53 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 16:35:53 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 16:35:54 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 16:35:55 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 16:35:56 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 16:35:57 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 16:35:59 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 16:35:59 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 16:36:42 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 16:36:46 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 16:36:46 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 16:36:46 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 16:36:55 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 16:37:09 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 16:37:09 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 16:37:10 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 16:37:11 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 16:37:12 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 16:37:12 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 16:37:14 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 16:37:14 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 16:37:16 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 16:37:19 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 16:37:19 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 16:37:54 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 16:41:04 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 16:41:04 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 16:41:04 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 16:41:12 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 16:41:25 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 16:41:25 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 16:41:25 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 16:41:25 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 16:41:26 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 16:41:26 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 16:41:28 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 16:41:28 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 16:41:29 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 16:41:31 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 16:41:31 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 16:42:07 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 17:54:30 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 17:54:30 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 17:54:30 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 17:54:39 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 17:54:51 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 17:54:51 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 17:54:51 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 17:54:53 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 17:54:54 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 17:54:54 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 17:54:56 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 17:54:56 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 17:54:58 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 17:54:59 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 17:54:59 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 17:55:36 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 18:03:29 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 18:03:30 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 18:03:30 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 18:03:38 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 18:03:50 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 18:03:50 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 18:03:50 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 18:03:52 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 18:03:53 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 18:03:53 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 18:03:55 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 18:03:55 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 18:03:57 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 18:04:00 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 18:04:00 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 18:04:07 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 18:05:04 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 18:05:04 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 18:05:04 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 18:05:12 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 18:05:23 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 18:05:24 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 18:05:24 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 18:05:25 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 18:05:26 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 18:05:26 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 18:05:27 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 18:05:28 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 18:05:30 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 18:05:31 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 18:05:31 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 18:06:06 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 18:06:34 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 18:06:34 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 18:06:34 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 18:06:42 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 18:06:54 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 18:06:54 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 18:06:55 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 18:06:55 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 18:06:56 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 18:06:57 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 18:06:58 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 18:06:58 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 18:07:00 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 18:07:01 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 18:07:01 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 18:07:07 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 18:08:45 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 18:08:45 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 18:08:45 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 18:08:53 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 18:09:06 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 18:09:06 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 18:09:06 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 18:09:06 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 18:09:08 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 18:09:08 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 18:09:10 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 18:09:10 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 18:09:11 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 18:09:13 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 18:09:13 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 18:09:54 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 18:21:02 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 18:21:02 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 18:21:02 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 18:21:10 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 18:21:22 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 18:21:22 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 18:21:22 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 18:21:24 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 18:21:24 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 18:21:25 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 18:21:26 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 18:21:26 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 18:21:28 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 18:21:29 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 18:21:29 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 18:22:10 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 18:24:30 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 18:24:30 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 18:24:30 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 18:24:38 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 18:24:51 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 18:24:51 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 18:24:51 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 18:24:52 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 18:24:53 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 18:24:54 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 18:24:56 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 18:24:56 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 18:24:57 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 18:24:59 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 18:24:59 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 18:25:39 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 18:26:01 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 18:26:01 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 18:26:01 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 18:26:09 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 18:26:20 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 18:26:20 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 18:26:20 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 18:26:21 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 18:26:22 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 18:26:22 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 18:26:24 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 18:26:24 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 18:26:26 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 18:26:27 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 18:26:27 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 18:26:57 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 18:29:25 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 18:29:25 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 18:29:25 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 18:29:33 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 18:29:45 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 18:29:45 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 18:29:46 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 18:29:46 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 18:29:48 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 18:29:48 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 18:29:49 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 18:29:50 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 18:29:51 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 18:29:53 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 18:29:53 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 18:30:33 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 18:32:13 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 18:32:13 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 18:32:13 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 18:32:21 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 18:32:33 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 18:32:33 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 18:32:33 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 18:32:33 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 18:32:35 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 18:32:35 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 18:32:37 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 18:32:37 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 18:32:39 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 18:32:41 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 18:32:41 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 18:33:10 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 18:36:09 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 18:36:09 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 18:36:09 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 18:36:17 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 18:36:30 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 18:36:30 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 18:36:30 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 18:36:31 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 18:36:32 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 18:36:32 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 18:36:34 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 18:36:34 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 18:36:36 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 18:36:37 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 18:36:37 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 18:37:18 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 18:45:56 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 18:45:56 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 18:45:56 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 18:46:05 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 18:46:17 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 18:46:17 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 18:46:17 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 18:46:18 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 18:46:19 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 18:46:20 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 18:46:21 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 18:46:22 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 18:46:23 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 18:46:25 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 18:46:25 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 18:46:36 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 18:50:19 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 18:50:19 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 18:50:19 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 18:50:28 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 18:50:39 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 18:50:39 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 18:50:40 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 18:50:41 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 18:50:42 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 18:50:42 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 18:50:44 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 18:50:44 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 18:50:45 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 18:50:47 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 18:50:48 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 18:51:28 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 18:55:20 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 18:55:20 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 18:55:20 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 18:55:28 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 18:55:39 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 18:55:40 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 18:55:40 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 18:55:40 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 18:55:41 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 18:55:42 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 18:55:43 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 18:55:44 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 18:55:45 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 18:55:46 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 18:55:46 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 18:56:27 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 18:58:54 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 18:58:54 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 18:58:54 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 18:59:02 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 18:59:14 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 18:59:14 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 18:59:14 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 18:59:14 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 18:59:16 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 18:59:16 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 18:59:18 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 18:59:19 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 18:59:20 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 18:59:22 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 18:59:22 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 19:00:03 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 19:00:47 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 19:00:47 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 19:00:47 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 19:00:55 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 19:01:07 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 19:01:07 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 19:01:07 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 19:01:08 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 19:01:08 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 19:01:09 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 19:01:11 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 19:01:11 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 19:01:12 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 19:01:14 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 19:01:14 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 19:01:56 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 19:03:44 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 19:03:44 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 19:03:44 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 19:03:52 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 19:04:03 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 19:04:04 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 19:04:04 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 19:04:04 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 19:04:05 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 19:04:06 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 19:04:07 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 19:04:08 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 19:04:09 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 19:04:11 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 19:04:11 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 19:04:24 INFO  LogUtils.logInfo - Confirm seats selection information message
+2021 May 31 19:05:24 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 19:05:46 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 19:05:46 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 19:05:46 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 19:05:54 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 19:06:04 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 19:06:04 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 19:06:05 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 19:06:06 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 19:06:06 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 19:06:07 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 19:06:08 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 19:06:08 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 19:06:10 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 19:06:11 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 19:06:11 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 19:06:24 INFO  LogUtils.logInfo - Confirm seats selection information message
+2021 May 31 19:07:24 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 19:07:36 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 19:07:36 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 19:07:36 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 19:07:44 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 19:07:55 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 19:07:55 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 19:07:55 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 19:07:57 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 19:07:57 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 19:07:57 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 19:07:59 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 19:07:59 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 19:08:01 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 19:08:02 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 19:08:02 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 19:08:14 INFO  LogUtils.logInfo - Confirm seats selection information message
+2021 May 31 19:09:15 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 19:10:13 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 19:10:13 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 19:10:13 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 19:10:21 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 19:10:33 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 19:10:33 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 19:10:33 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 19:10:34 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 19:10:35 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 19:10:35 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 19:10:37 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 19:10:37 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 19:10:38 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 19:10:40 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 19:10:40 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 19:10:53 INFO  LogUtils.logInfo - Confirm seats selection information message
+2021 May 31 19:11:30 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 19:11:30 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 19:11:30 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 19:11:38 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 19:11:53 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 19:11:53 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 19:11:53 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 19:11:53 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 19:11:54 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 19:11:56 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 19:11:57 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 19:11:58 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 19:11:58 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 19:12:00 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 19:12:01 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 19:12:01 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 19:12:14 INFO  LogUtils.logInfo - Confirm seats selection information message
+2021 May 31 19:13:46 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 19:29:53 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 19:29:53 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 19:29:53 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 19:30:01 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 19:30:12 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 19:30:12 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 19:30:12 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 19:30:12 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 19:30:14 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 19:30:14 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 19:30:16 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 19:30:16 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 19:30:18 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 19:30:19 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 19:30:20 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 19:30:32 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 19:32:13 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 19:32:13 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 19:32:13 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 19:32:21 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 19:32:32 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 19:32:32 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 19:32:32 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 19:32:32 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 19:32:34 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 19:32:34 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 19:32:36 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 19:32:36 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 19:32:38 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 19:32:39 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 19:32:40 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 19:33:05 INFO  LogUtils.logInfo - Random Seat Selection
+2021 May 31 19:33:12 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 19:36:22 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 19:36:22 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 19:36:22 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 19:36:30 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 19:36:42 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 19:36:42 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 19:36:42 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 19:36:43 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 19:36:44 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 19:36:44 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 19:36:46 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 19:36:46 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 19:36:48 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 19:36:49 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 19:36:49 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 19:37:02 INFO  LogUtils.logInfo - Random Seat Selection
+2021 May 31 19:37:08 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 19:40:02 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 19:40:02 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 19:40:02 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 19:40:10 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 19:40:22 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 19:40:22 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 19:40:23 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 19:40:23 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 19:40:24 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 19:40:25 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 19:40:26 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 19:40:26 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 19:40:28 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 19:40:30 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 19:40:30 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 19:40:43 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 19:41:37 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 19:41:37 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 19:41:37 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 19:41:45 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 19:41:56 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 19:41:56 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 19:41:56 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 19:41:56 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 19:41:57 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 19:41:58 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 19:41:59 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 19:42:00 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 19:42:01 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 19:42:03 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 19:42:03 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 19:42:16 INFO  LogUtils.logInfo - Random Seat Selection
+2021 May 31 19:42:23 INFO  LogUtils.logInfo - Confirm random seat selection
+2021 May 31 19:42:23 INFO  LogUtils.logInfo - Click 'Check out' button
+2021 May 31 19:42:57 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 19:53:21 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 19:53:21 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 19:53:21 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 19:53:31 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 19:53:40 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 19:53:41 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 19:53:41 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 19:53:41 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 19:53:43 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 19:53:43 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 19:53:45 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 19:53:45 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 19:53:47 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 19:53:50 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 19:53:51 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 19:54:06 INFO  LogUtils.logInfo - Random Seat Selection
+2021 May 31 19:54:14 INFO  LogUtils.logInfo - Confirm random seat selection
+2021 May 31 19:54:14 INFO  LogUtils.logInfo - Click radio button
+2021 May 31 19:54:19 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 19:57:35 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 19:57:35 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 19:57:35 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 19:57:44 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 19:57:57 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 19:57:57 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 19:57:58 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 19:57:58 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 19:58:00 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 19:58:01 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 19:58:03 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 19:58:03 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 19:58:05 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 19:58:07 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 19:58:07 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 19:58:20 INFO  LogUtils.logInfo - Random Seat Selection
+2021 May 31 19:58:27 INFO  LogUtils.logInfo - Confirm random seat selection
+2021 May 31 19:58:27 INFO  LogUtils.logInfo - Click radio button
+2021 May 31 19:58:31 INFO  LogUtils.logInfo - Click continue button
+2021 May 31 19:58:33 INFO  LogUtils.logInfo - Scroll down page
+2021 May 31 19:58:38 INFO  LogUtils.logInfo - Open phone number 'Country' dropdown
+2021 May 31 19:59:08 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 20:02:52 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 20:02:52 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 20:02:52 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 20:03:02 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 20:03:15 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 20:03:15 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 20:03:15 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 20:03:15 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 20:03:17 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 20:03:17 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 20:03:19 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 20:03:20 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 20:03:22 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 20:03:25 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 20:03:25 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 20:03:40 INFO  LogUtils.logInfo - Random Seat Selection
+2021 May 31 20:03:47 INFO  LogUtils.logInfo - Confirm random seat selection
+2021 May 31 20:03:47 INFO  LogUtils.logInfo - Click radio button
+2021 May 31 20:03:52 INFO  LogUtils.logInfo - Click continue button
+2021 May 31 20:03:54 INFO  LogUtils.logInfo - Click continue button
+2021 May 31 20:04:00 INFO  LogUtils.logInfo - Scroll down page
+2021 May 31 20:04:00 INFO  LogUtils.logInfo - Open phone number 'Country' dropdown
+2021 May 31 20:05:14 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 20:08:47 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 20:08:47 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 20:08:47 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 20:08:57 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 20:09:06 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 20:09:06 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 20:09:06 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 20:09:06 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 20:09:08 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 20:09:09 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 20:09:11 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 20:09:12 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 20:09:14 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 20:09:17 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 20:09:18 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 20:09:33 INFO  LogUtils.logInfo - Random Seat Selection
+2021 May 31 20:09:39 INFO  LogUtils.logInfo - Confirm random seat selection
+2021 May 31 20:09:40 INFO  LogUtils.logInfo - Click radio button
+2021 May 31 20:09:46 INFO  LogUtils.logInfo - Click continue button
+2021 May 31 20:09:48 INFO  LogUtils.logInfo - Click continue button
+2021 May 31 20:09:55 INFO  LogUtils.logInfo - Scroll down page
+2021 May 31 20:10:02 INFO  LogUtils.logInfo - Open phone number 'Country' dropdown
+2021 May 31 20:10:33 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 20:11:04 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 20:11:04 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 20:11:04 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 20:11:14 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 20:11:23 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 20:11:23 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 20:11:24 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 20:11:26 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 20:11:27 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 20:11:28 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 20:11:30 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 20:11:31 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 20:11:33 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 20:11:36 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 20:11:36 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 20:11:49 INFO  LogUtils.logInfo - Random Seat Selection
+2021 May 31 20:11:56 INFO  LogUtils.logInfo - Confirm random seat selection
+2021 May 31 20:11:56 INFO  LogUtils.logInfo - Click radio button
+2021 May 31 20:12:01 INFO  LogUtils.logInfo - Click continue button
+2021 May 31 20:12:03 INFO  LogUtils.logInfo - Click continue button
+2021 May 31 20:12:10 INFO  LogUtils.logInfo - Click on cart
+2021 May 31 20:12:48 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 20:28:33 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 20:28:33 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 20:28:33 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 20:28:43 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 20:29:00 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 20:29:00 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 20:29:00 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 20:29:02 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 20:29:04 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 20:29:04 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 20:29:06 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 20:29:06 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 20:29:08 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 20:29:09 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 20:29:09 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 20:29:25 INFO  LogUtils.logInfo - Random Seat Selection
+2021 May 31 20:29:36 INFO  LogUtils.logInfo - Confirm random seat selection
+2021 May 31 20:29:36 INFO  LogUtils.logInfo - Click radio button
+2021 May 31 20:29:45 INFO  LogUtils.logInfo - Click continue button
+2021 May 31 20:29:46 INFO  LogUtils.logInfo - Click continue button
+2021 May 31 20:29:56 INFO  LogUtils.logInfo - Click on cart
+2021 May 31 20:30:34 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 20:35:09 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 20:35:09 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 20:35:09 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 20:35:19 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 20:35:33 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 20:35:33 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 20:35:33 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 20:35:33 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 20:35:34 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 20:35:35 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 20:35:37 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 20:35:37 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 20:35:39 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 20:35:41 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 20:35:41 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 20:35:55 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 20:36:34 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 20:36:34 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 20:36:34 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 20:36:44 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 20:36:54 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 20:36:54 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 20:36:54 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 20:36:55 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 20:36:58 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 20:36:58 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 20:37:00 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 20:37:01 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 20:37:03 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 20:37:06 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 20:37:06 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 20:37:18 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 20:40:49 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 20:40:49 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 20:40:49 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 20:40:57 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 20:41:12 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 20:41:12 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 20:41:12 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 20:41:13 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 20:41:15 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 20:41:15 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 20:41:17 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 20:41:17 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 20:41:19 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 20:41:20 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 20:41:20 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 20:42:00 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 20:43:38 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 20:43:38 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 20:43:38 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 20:43:48 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 20:44:01 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 20:44:01 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 20:44:02 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 20:44:03 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 20:44:05 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 20:44:05 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 20:44:07 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 20:44:09 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 20:44:12 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 20:44:15 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 20:44:16 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 20:44:59 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 20:46:42 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 20:46:42 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 20:46:42 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 20:46:52 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 20:47:04 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 20:47:04 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 20:47:05 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 20:47:05 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 20:47:08 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 20:47:08 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 20:47:10 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 20:47:11 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 20:47:13 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 20:47:15 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 20:47:16 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 20:47:32 INFO  LogUtils.logInfo - Random Seat Selection
+2021 May 31 20:47:42 INFO  LogUtils.logInfo - Confirm random seat selection
+2021 May 31 20:47:42 INFO  LogUtils.logInfo - Click radio button
+2021 May 31 20:47:48 INFO  LogUtils.logInfo - Click continue button
+2021 May 31 20:47:50 INFO  LogUtils.logInfo - Click continue button
+2021 May 31 20:47:55 INFO  LogUtils.logInfo - Click on cart
+2021 May 31 20:48:05 INFO  LogUtils.logInfo - Scroll down page
+2021 May 31 20:48:06 INFO  LogUtils.logInfo - Open phone number 'Country' dropdown
+2021 May 31 20:48:36 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 20:52:26 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 20:52:26 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 20:52:26 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 20:52:37 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 20:52:49 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 20:52:49 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 20:52:49 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 20:52:50 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 20:52:51 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 20:52:51 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 20:52:53 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 20:52:54 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 20:52:56 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 20:52:59 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 20:52:59 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 20:53:15 INFO  LogUtils.logInfo - Random Seat Selection
+2021 May 31 20:53:21 INFO  LogUtils.logInfo - Confirm random seat selection
+2021 May 31 20:53:22 INFO  LogUtils.logInfo - Click radio button
+2021 May 31 20:53:28 INFO  LogUtils.logInfo - Click continue button
+2021 May 31 20:53:30 INFO  LogUtils.logInfo - Click continue button
+2021 May 31 20:53:40 INFO  LogUtils.logInfo - Click on cart
+2021 May 31 20:53:51 INFO  LogUtils.logInfo - Click on cart
+2021 May 31 20:53:53 INFO  LogUtils.logInfo - Scroll down page
+2021 May 31 20:53:53 INFO  LogUtils.logInfo - Open phone number 'Country' dropdown
+2021 May 31 20:54:24 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 21:51:25 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 21:51:25 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 21:51:25 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 21:51:34 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 21:51:47 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 21:51:47 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 21:51:47 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 21:51:49 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 21:51:50 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 21:51:50 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 21:51:52 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 21:51:52 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 21:51:53 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 21:51:55 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 21:51:55 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 21:52:08 INFO  LogUtils.logInfo - Random Seat Selection
+2021 May 31 21:52:16 INFO  LogUtils.logInfo - Confirm random seat selection
+2021 May 31 21:52:16 INFO  LogUtils.logInfo - Click radio button
+2021 May 31 21:52:21 INFO  LogUtils.logInfo - Click continue button
+2021 May 31 21:52:23 INFO  LogUtils.logInfo - Click continue button
+2021 May 31 21:52:28 INFO  LogUtils.logInfo - Click on cart
+2021 May 31 21:52:36 INFO  LogUtils.logInfo - Click on cart
+2021 May 31 21:52:38 INFO  LogUtils.logInfo - Fill 'Phone number' with '12345678'
+2021 May 31 21:52:44 INFO  LogUtils.logInfo - Fill 'Card number' with '5555555555555557'
+2021 May 31 21:52:45 INFO  LogUtils.logInfo - Open 'Expiry Month' dropdown
+2021 May 31 21:52:45 INFO  LogUtils.logInfo - Open 'Expiry Year' dropdown
+2021 May 31 21:52:46 INFO  LogUtils.logInfo - Fill 'Security code' with '267'
+2021 May 31 21:52:46 INFO  LogUtils.logInfo - Fill 'Card Holder Name' with 'John Smith'
+2021 May 31 21:52:47 INFO  LogUtils.logInfo - Fill 'Address Line 1' with '28 Sun street'
+2021 May 31 21:52:47 INFO  LogUtils.logInfo - Fill 'City' with 'Wroclaw'
+2021 May 31 21:52:47 INFO  LogUtils.logInfo - click on country dropdown
+2021 May 31 21:52:48 INFO  LogUtils.logInfo - ENter Zip Code
+2021 May 31 21:52:48 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 21:56:23 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 21:56:23 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 21:56:23 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 21:56:32 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 21:56:44 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 21:56:44 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 21:56:45 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 21:56:45 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 21:56:46 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 21:56:47 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 21:56:49 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 21:56:49 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 21:56:50 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 21:56:52 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 21:56:52 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 21:57:04 INFO  LogUtils.logInfo - Random Seat Selection
+2021 May 31 21:57:11 INFO  LogUtils.logInfo - Confirm random seat selection
+2021 May 31 21:57:11 INFO  LogUtils.logInfo - Click radio button
+2021 May 31 21:57:16 INFO  LogUtils.logInfo - Click continue button
+2021 May 31 21:57:18 INFO  LogUtils.logInfo - Click continue button
+2021 May 31 21:57:23 INFO  LogUtils.logInfo - Click on cart
+2021 May 31 21:57:30 INFO  LogUtils.logInfo - Click on cart
+2021 May 31 21:57:31 INFO  LogUtils.logInfo - Fill 'Phone number' with '12345678'
+2021 May 31 21:57:38 INFO  LogUtils.logInfo - Fill 'Card number' with '5555555555555557'
+2021 May 31 21:57:38 INFO  LogUtils.logInfo - Open 'Expiry Month' dropdown
+2021 May 31 21:57:39 INFO  LogUtils.logInfo - Open 'Expiry Year' dropdown
+2021 May 31 21:57:39 INFO  LogUtils.logInfo - Fill 'Security code' with '267'
+2021 May 31 21:57:39 INFO  LogUtils.logInfo - Fill 'Card Holder Name' with 'John Smith'
+2021 May 31 21:57:39 INFO  LogUtils.logInfo - Fill 'Address Line 1' with '28 Sun street'
+2021 May 31 21:57:40 INFO  LogUtils.logInfo - Fill 'City' with 'Wroclaw'
+2021 May 31 21:57:40 INFO  LogUtils.logInfo - click on country dropdown
+2021 May 31 21:57:41 INFO  LogUtils.logInfo - ENter Zip Code
+2021 May 31 21:57:41 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 May 31 22:01:03 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 May 31 22:01:03 ERROR LogUtils.logError - No enum constant driver.BrowserTypes.FIREFOX
+2021 May 31 22:01:03 DEBUG LogUtils.logDebug - Set default browser: FireFox
+2021 May 31 22:01:12 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 May 31 22:01:21 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 May 31 22:01:21 INFO  LogUtils.logInfo - Click Allow
+2021 May 31 22:01:21 INFO  LogUtils.logInfo - Click 'Log in' link
+2021 May 31 22:01:23 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 May 31 22:01:23 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 May 31 22:01:24 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 May 31 22:01:26 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 May 31 22:01:26 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 May 31 22:01:28 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 May 31 22:01:30 INFO  LogUtils.logInfo - Add adult passenger
+2021 May 31 22:01:30 INFO  LogUtils.logInfo - Click 'Let's go' button
+2021 May 31 22:01:43 INFO  LogUtils.logInfo - Random Seat Selection
+2021 May 31 22:01:50 INFO  LogUtils.logInfo - Confirm random seat selection
+2021 May 31 22:01:50 INFO  LogUtils.logInfo - Click radio button
+2021 May 31 22:01:55 INFO  LogUtils.logInfo - Click continue button
+2021 May 31 22:01:57 INFO  LogUtils.logInfo - Click continue button
+2021 May 31 22:02:02 INFO  LogUtils.logInfo - Click on cart
+2021 May 31 22:02:10 INFO  LogUtils.logInfo - Click on cart
+2021 May 31 22:02:11 INFO  LogUtils.logInfo - Fill 'Phone number' with '12345678'
+2021 May 31 22:02:18 INFO  LogUtils.logInfo - Fill 'Card number' with '5555555555555557'
+2021 May 31 22:02:18 INFO  LogUtils.logInfo - Open 'Expiry Month' dropdown
+2021 May 31 22:02:19 INFO  LogUtils.logInfo - Open 'Expiry Year' dropdown
+2021 May 31 22:02:20 INFO  LogUtils.logInfo - Fill 'Security code' with '267'
+2021 May 31 22:02:20 INFO  LogUtils.logInfo - Fill 'Card Holder Name' with 'John Smith'
+2021 May 31 22:02:20 INFO  LogUtils.logInfo - Fill 'Address Line 1' with '28 Sun street'
+2021 May 31 22:02:20 INFO  LogUtils.logInfo - Fill 'City' with 'Wroclaw'
+2021 May 31 22:02:20 INFO  LogUtils.logInfo - click on country dropdown
+2021 May 31 22:02:21 INFO  LogUtils.logInfo - ENter Zip Code
+2021 May 31 22:02:21 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------

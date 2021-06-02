@@ -10,10 +10,11 @@ import utils.PropertyProvider;
  */
 public class LoginPageSteps {
 
-    @When("^I log in to personal account$")
-    public void iLogInToPersonalAccount() {
-        LoginPage page = new LoginPage();
-        page.clickLoginLinkFromMainPage();
-        page.logIn(new User(PropertyProvider.getProperty("username"),PropertyProvider.getProperty("password")));
-    }
+	@When("^I log in to personal account$")
+	public void iLogInToPersonalAccount() {
+		LoginPage page = new LoginPage();
+		page.clickCookie();
+		page.clickLoginLinkFromMainPage();
+		page.logIn(new User(PropertyProvider.getProperty("username"), PropertyProvider.getProperty("password")));
+	}
 }

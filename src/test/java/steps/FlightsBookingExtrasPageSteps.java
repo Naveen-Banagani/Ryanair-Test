@@ -8,8 +8,13 @@ import pages.FlightsBookingExtrasPage;
  */
 public class FlightsBookingExtrasPageSteps {
 
-    @When("^I checkout my booking$")
-    public void iCheckoutMyBooking() {
-        new FlightsBookingExtrasPage().clickCheckOutButton();
-    }
+	@When("^I checkout my booking$")
+	public void iCheckoutMyBooking() {
+		FlightsBookingExtrasPage page = new FlightsBookingExtrasPage();
+		page.clickRadioButton();
+		page.clickContinueButton();
+		page.clickContinueButton();
+		page.clickCart();
+		page.clickCheckout();
+	}
 }

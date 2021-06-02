@@ -6,23 +6,29 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import utils.LogUtils;
 
-/***
- * This class is used to initialize PageFactory elements
- * And to store shared methods
+/**
+ * This class is used to initialize PageFactory elements 
+ * 
  */
 public class BasePage {
 
-    protected BasePage(){
-        PageFactory.initElements(FactoryDriver.getInstance(), this);
-    }
+	protected BasePage() {
+		PageFactory.initElements(FactoryDriver.getInstance(), this);
+	}
 
-    @FindBy(css = "a[ui-sref='login']")
-    private WebElement loginLink;
+	@FindBy(xpath = "//button[@class='cookie-popup-with-overlay__button']")
+	private WebElement cookie;
+	@FindBy(xpath = "//span[contains(text(),'Log in')]")
+	private WebElement loginLink;
 
-    public void clickLoginLinkFromMainPage() {
-        LogUtils.logInfo("Click 'Log in' link");
-        loginLink.click();
-    }
+	public void clickLoginLinkFromMainPage() {
+		LogUtils.logInfo("Click 'Log in' ");
+		loginLink.click();
+	}
 
+	public void clickCookie() {
+		LogUtils.logInfo("Click Allow");
+		cookie.click();
+	}
 
 }

@@ -1,8 +1,11 @@
 package pages;
 
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.FindBys;
+
+import junit.framework.Assert;
 import utils.ExplicitWait;
 import utils.LogUtils;
 import utils.ScrollUtils;
@@ -11,306 +14,165 @@ import java.util.List;
 import static utils.GlobalConstants.EXPLICIT_SLEEP_TIMEOUT_MILLIS;
 
 /***
- * This class describes Flights Booking Payment Page
- * PageFactory is used for Page Object
- * It adds lazy evaluation
- * which means that Page Element is initialized only when it's called by method
- * instead of instant initialization when object of page is created
+ * This class describes Flights Booking Payment Page PageFactory is used for
+ * Page Object It adds lazy evaluation which means that Page Element is
+ * initialized only when it's called by method instead of instant initialization
+ * when object of page is created
  */
-public class FlightsBookingPaymentPage extends BasePage{
+public class FlightsBookingPaymentPage extends BasePage {
 
-    public static final String PAYMENT_ERROR_TITLE_MESSAGE = "Oh. There was a problem";
+	@FindBy(xpath = "//input[@type='tel']")
+	private WebElement mobileNumber;
 
-    @FindBy(xpath = "//ng-form[@name='passengerForm0']//select")
-    private WebElement adultTitleDropdown;
+	@FindBy(xpath = "(//input[@name='undefined'])[2]")
+	private WebElement cardNumber;
 
-    @FindBys(@FindBy(xpath = "//ng-form[@name='passengerForm0']//select//option"))
-    private List<WebElement> adultTitleList;
+	@FindBy(xpath = "//body/app-root[1]/ng-component[1]/ry-spinner[1]/div[1]/payment-form[1]/form[1]/div[5]/payment-methods[1]/div[1]/div[1]/ry-tabs[1]/div[2]/div[1]/add-method-modal[1]/form[1]/div[1]/div[1]/div[1]/div[2]/card-details[1]/form[1]/expiry-date[1]/div[1]/span[2]/div[1]/ry-dropdown[1]/div[1]/button[1]")
+	private WebElement expiryMonthDropdown;
 
-    @FindBy(css = "ng-form[name='passengerForm0'] div.payment-passenger-first-name input")
-    private WebElement adultName;
+	@FindBy(xpath = "//div[contains(text(),'June')]")
+	private WebElement expiryMonthDropDownList;
 
-    @FindBy(css = "ng-form[name='passengerForm0'] div.payment-passenger-last-name input")
-    private WebElement adultLastName;
+	@FindBy(xpath = "//body/app-root[1]/ng-component[1]/ry-spinner[1]/div[1]/payment-form[1]/form[1]/div[5]/payment-methods[1]/div[1]/div[1]/ry-tabs[1]/div[2]/div[1]/add-method-modal[1]/form[1]/div[1]/div[1]/div[1]/div[2]/card-details[1]/form[1]/expiry-date[1]/div[1]/span[2]/div[2]/ry-dropdown[1]/div[1]/button[1]")
+	private WebElement expiryYearDropdown;
 
-    @FindBy(xpath = "//ng-form[@name='passengerForm1']//select")
-    private WebElement secondAdultTitleDropdown;
+	@FindBy(xpath = "//div[contains(text(),'2024')]")
+	private WebElement expiryYearDropDownList;
 
-    @FindBys(@FindBy(xpath = "//ng-form[@name='passengerForm1']//select//option"))
-    private List<WebElement> secondAdultTitleList;
+	@FindBy(xpath = "//body/app-root[1]/ng-component[1]/ry-spinner[1]/div[1]/payment-form[1]/form[1]/div[5]/payment-methods[1]/div[1]/div[1]/ry-tabs[1]/div[2]/div[1]/add-method-modal[1]/form[1]/div[1]/div[1]/div[1]/div[2]/card-details[1]/form[1]/verification-code[1]/div[1]/span[1]/ry-input-d[1]/div[1]/input[1]")
+	private WebElement securityCode;
 
-    @FindBy(css = "ng-form[name='passengerForm1'] div.payment-passenger-first-name input")
-    private WebElement secondAdultName;
+	@FindBy(xpath = "(//input[@name='undefined'])[4]")
+	private WebElement cardHolderName;
 
-    @FindBy(css = "ng-form[name='passengerForm1'] div.payment-passenger-last-name input")
-    private WebElement secondAdultLastName;
+	@FindBy(xpath = "(//input[@name='undefined'])[5]")
+	private WebElement addressLine1;
 
-    @FindBy(css = "ng-form[name='passengerForm2'] div.payment-passenger-first-name input")
-    private WebElement thirdPassengerName;
+	@FindBy(xpath = "(//input[@name='undefined'])[7]")
+	private WebElement city;
 
-    @FindBy(css = "ng-form[name='passengerForm2'] div.payment-passenger-last-name input")
-    private WebElement thirdPassengerLastName;
+	@FindBy(xpath = "//body/app-root[1]/ng-component[1]/ry-spinner[1]/div[1]/payment-form[1]/form[1]/div[5]/payment-methods[1]/div[1]/div[1]/ry-tabs[1]/div[2]/div[1]/add-method-modal[1]/form[1]/div[1]/div[1]/div[2]/billing-address[1]/address-form[1]/form[1]/ry-autocomplete[1]/div[1]/div[1]/div[1]/input[1]")
+	private WebElement countryDropDown;
 
-    @FindBy(name = "phoneNumberCountry")
-    private WebElement phoneNumberCountryDropDown;
+	@FindBy(xpath = "//body/app-root[1]/ng-component[1]/ry-spinner[1]/div[1]/payment-form[1]/form[1]/div[5]/payment-methods[1]/div[1]/div[1]/ry-tabs[1]/div[2]/div[1]/add-method-modal[1]/form[1]/div[1]/div[1]/div[2]/billing-address[1]/address-form[1]/form[1]/ry-autocomplete[1]/div[1]/div[1]/div[1]/input[1]")
+	private WebElement countrylist;
 
-    @FindBys(@FindBy(xpath = "//select[@name='phoneNumberCountry']//optgroup//option"))
-    private List<WebElement> phoneNumberCountryDropDownList;
+	@FindBy(xpath = "//body/app-root[1]/ng-component[1]/ry-spinner[1]/div[1]/payment-form[1]/form[1]/div[5]/payment-methods[1]/div[1]/div[1]/ry-tabs[1]/div[2]/div[1]/add-method-modal[1]/form[1]/div[1]/div[1]/div[2]/billing-address[1]/address-form[1]/form[1]/ry-input-d[4]/div[1]/input[1]")
+	private WebElement zipCode;
 
-    @FindBy(css = "div.phone-number>input")
-    private WebElement phoneNumber;
+	@FindBy(xpath = "//terms-and-conditions/div/div/ry-checkbox/label/div/div")
+	private WebElement termsCheckBox;
 
-    @FindBy(name = "cardNumber")
-    private WebElement cardNumber;
+	@FindBy(xpath = "//button[contains(text(),'Pay now')]")
+	private WebElement payNowButton;
 
-    @FindBy(name = "cardType")
-    private WebElement cardTypeDropdown;
+	@FindBy(xpath = "//div[3]/div/ry-checkbox/label/div/div")
+	private WebElement insuranceCheckBox;
 
-    @FindBys(@FindBy(xpath = "//select[@name='cardType']//option"))
-    private List<WebElement> cardTypeDropDownList;
+	@FindBy(xpath = "//span[contains(text(),'Select a currency')]")
+	private WebElement currencyDropDown;
 
-    @FindBy(name = "expiryMonth")
-    private WebElement expiryMonthDropdown;
+	@FindBy(xpath = "(//ry-dropdown-item[@class='ng-star-inserted'])[1]")
+	private WebElement selectCurrency;
 
-    @FindBys(@FindBy(xpath = "//select[@name='expiryMonth']//option"))
-    private List<WebElement> expiryMonthDropDownList;
+	@FindBy(xpath = "//div[contains(text(),'Transaction could not be processed.')]")
+	private WebElement paymentErrorMessage;
 
-    @FindBy(name = "expiryYear")
-    private WebElement expiryYearDropdown;
+	public void fillMobileNumber(String phoneNumber) {
+		LogUtils.logInfo(String.format("Fill 'Phone number' with '%s'", phoneNumber));
+		this.mobileNumber.sendKeys(phoneNumber);
+	}
 
-    @FindBys(@FindBy(xpath = "//select[@name='expiryYear']//option"))
-    private List<WebElement> expiryYearDropDownList;
+	public void fillCardNumber(String cardNumber) {
+		LogUtils.logInfo(String.format("Fill 'Card number' with '%s'", cardNumber));
+		this.cardNumber.sendKeys(cardNumber);
+	}
 
-    @FindBy(name = "securityCode")
-    private WebElement securityCode;
+	public void chooseExpiryMonth() {
+		LogUtils.logInfo("Open 'Expiry Month' dropdown");
+		expiryMonthDropdown.click();
+		expiryMonthDropDownList.click();
+	}
 
-    @FindBy(name = "cardHolderName")
-    private WebElement cardHolderName;
+	public void chooseExpiryYear() {
+		LogUtils.logInfo("Open 'Expiry Year' dropdown");
+		expiryYearDropdown.click();
+		expiryYearDropDownList.click();
 
-    @FindBy(id = "billingAddressAddressLine1")
-    private WebElement addressLine1;
+	}
 
-    @FindBy(id = "billingAddressCity")
-    private WebElement city;
+	public void fillSecurityCode(String code) {
+		LogUtils.logInfo(String.format("Fill 'Security code' with '%s'", code));
+		securityCode.sendKeys(code);
+	}
 
-    @FindBy(css = "div.terms svg")
-    private WebElement acceptTermsCheckbox;
+	public void fillCardHolderName(String holderName) {
+		LogUtils.logInfo(String.format("Fill 'Card Holder Name' with '%s'", holderName));
+		cardHolderName.sendKeys(holderName);
+	}
 
-    @FindBy(xpath = "//button[@class='core-btn-primary core-btn-medium']")
-    private WebElement payNowButton;
+	public void fillAddress(String address) {
+		LogUtils.logInfo(String.format("Fill 'Address Line 1' with '%s'", address));
+		addressLine1.sendKeys(address);
+	}
 
-    @FindBy(css = "prompt.error.prompt-text")
-    private WebElement paymentError;
+	public void fillCity(String city) {
+		LogUtils.logInfo(String.format("Fill 'City' with '%s'", city));
+		this.city.sendKeys(city);
+	}
 
-    @FindBy(css = "prompt.error.prompt-text div.info-title")
-    private WebElement paymentErrorTitleMessage;
+	public void acceptTerms() {
 
-    @FindBy(css = "div.spinner-plane")
-    private WebElement planeLoadingSpinner;
+		LogUtils.logInfo("Accept General terms");
+		termsCheckBox.click();
+	}
 
-    /***
-     * Method extract title from dropdown list using loop statement
-     * once condition is met return from loop using break keyword
-     * @param title of passenger
-     */
-    public void chooseAdultTitle(String title) {
-        LogUtils.logInfo("Open 'Title' dropdown");
-        ExplicitWait.elementToBeClickable(adultTitleDropdown);
-        adultTitleDropdown.click();
-        //Unfortunately have no time to investigate a reason of WebDriver search and click fail
-        //so i just set WebDriver sleep for 1 sec to make it work
-        ExplicitWait.visibilityOfElements(adultTitleList);
-        ExplicitWait.sleep(EXPLICIT_SLEEP_TIMEOUT_MILLIS);
-        for(WebElement el : adultTitleList){
-            if(el.getText().equalsIgnoreCase(title))
-            {
-                LogUtils.logInfo(String.format("Choose '%s' title", title));
-                ExplicitWait.elementToBeClickable(el);
-                el.click();
-                break;
-            }
-        }
-    }
+	public void clickCurrencyDropDown() {
 
-    /***
-     * Method extracts title from dropdown list using loop statement
-     * once condition is met return from loop using break keyword
-     * @param title of passenger
-     */
-    public void chooseSecondAdultTitle(String title) {
-        LogUtils.logInfo("Open 'Title' dropdown");
-        secondAdultTitleDropdown.click();
-        for(WebElement el : secondAdultTitleList){
-            if(el.getText().equalsIgnoreCase(title))
-            {
-                LogUtils.logInfo(String.format("Choose '%s' title", title));
-                ExplicitWait.elementToBeClickable(el);
-                el.click();
-                break;
-            }
-        }
-    }
+		LogUtils.logInfo("Select Currency");
+		currencyDropDown.click();
+		selectCurrency.click();
+	}
 
-    public void fillAdultName(String name) {
-        LogUtils.logInfo(String.format("Fill 'First name' with '%s'", name));
-        adultName.sendKeys(name);
-    }
+	public void clickPayNowButton() {
+		LogUtils.logInfo("Click 'Pay Now' button");
+		payNowButton.click();
+	}
 
-    public void fillAdultLastName(String lastName) {
-        LogUtils.logInfo(String.format("Fill 'Surname' with '%s'", lastName));
-        adultLastName.sendKeys(lastName);
-    }
+	public void countryDropDown() {
+		LogUtils.logInfo("click on country dropdown");
+		countrylist.sendKeys("Ireland");
+		countrylist.sendKeys(Keys.ENTER);
 
-    public void fillSecondAdultName(String name) {
-        LogUtils.logInfo(String.format("Fill 'First name' with '%s'", name));
-        secondAdultName.sendKeys(name);
-    }
+	}
 
-    public void fillSecondAdultLastName(String lastName) {
-        LogUtils.logInfo(String.format("Fill 'Surname' with '%s'", lastName));
-        secondAdultLastName.sendKeys(lastName);
-    }
+	public void zipCode() {
+		LogUtils.logInfo("Enter Zip Code");
+		zipCode.clear();
+		zipCode.sendKeys("H91ET22");
 
-    public void fillThirdPassengerName(String name) {
-        LogUtils.logInfo(String.format("Fill 'First name' with '%s'", name));
-        thirdPassengerName.sendKeys(name);
-    }
+	}
 
-    public void fillThirdPassengerLastName(String lastName) {
-        LogUtils.logInfo(String.format("Fill 'Surname' with '%s'", lastName));
-        thirdPassengerLastName.sendKeys(lastName);
-    }
+	public void InsuranceCheckBox() throws InterruptedException {
+		LogUtils.logInfo("Insurance CheckBox");
+		Thread.sleep(3000);
+		insuranceCheckBox.click();
 
-    /***
-     * Method extracts country from dropdown list using loop statement
-     * once condition is met return from loop using break keyword
-     * Use JavascriptExecutor to scroll down page
-     * @param country of phone number
-     */
-    public void selectCountry(String country) {
-        LogUtils.logInfo("Scroll down page");
-        ScrollUtils.scrollDown(800);
-        LogUtils.logInfo("Open phone number 'Country' dropdown");
-        phoneNumberCountryDropDown.click();
-        for(WebElement el : phoneNumberCountryDropDownList){
-            if(el.getText().equalsIgnoreCase(country))
-            {
-                LogUtils.logInfo(String.format("Choose '%s' phone number country", country));
-                el.click();
-                break;
-            }
-        }
-    }
+	}
 
-    public void fillPhoneNumber(String phoneNumber) {
-        LogUtils.logInfo(String.format("Fill 'Phone number' with '%s'", phoneNumber));
-        this.phoneNumber.sendKeys(phoneNumber);
-    }
+	public void payNowButton() {
+		LogUtils.logInfo("Click on PayNow Button");
+		payNowButton.click();
 
-    public void fillCardNumber(String cardNumber) {
-        LogUtils.logInfo(String.format("Fill 'Card number' with '%s'", cardNumber));
-        this.cardNumber.sendKeys(cardNumber);
-    }
+	}
 
-    /***
-     * Method extract card type from dropdown list using loop statement
-     * once condition is met return from loop using break keyword
-     * @param cardType of card holder
-     */
-    public void chooseCardType(String cardType) {
-        LogUtils.logInfo("Open 'Card type' dropdown");
-        cardTypeDropdown.click();
-        ExplicitWait.visibilityOfElements(cardTypeDropDownList);
-        for(WebElement el : cardTypeDropDownList){
-            if(el.getText().equalsIgnoreCase(cardType))
-            {
-                LogUtils.logInfo(String.format("Choose '%s' card type", cardType));
-                el.click();
-                break;
-            }
-        }
-    }
+	public void waitUntilPaymentErrorIsDisplayed() {
+		ExplicitWait.visibilityOfElement(paymentErrorMessage);
+		String message = paymentErrorMessage.getText();
+		System.out.println(message);
+		Assert.assertEquals(
+				"Transaction could not be processed. Your payment was not authorised therefore we could not complete your booking. Please ensure that the information was correct and try again or use a new payment card.",
+				message);
+	}
 
-    /***
-     * Method extracts card expiry month from dropdown list using loop statement
-     * once condition is met return from loop using break keyword
-     * @param month of card expiry date
-     */
-    public void chooseExpiryMonth(String month) {
-        LogUtils.logInfo("Open 'Expiry Month' dropdown");
-        expiryMonthDropdown.click();
-        for(WebElement el : expiryMonthDropDownList){
-            if(el.getText().equalsIgnoreCase(month))
-            {
-                LogUtils.logInfo(String.format("Choose '%s' month", month));
-                el.click();
-                break;
-            }
-        }
-    }
-
-    /***
-     * Method extracts card expiry month from dropdown list using loop statement
-     * once condition is met return from loop using break keyword
-     * @param year of card expiry date
-     */
-    public void chooseExpiryYear(String year) {
-        LogUtils.logInfo("Open 'Expiry Year' dropdown");
-        expiryYearDropdown.click();
-        for(WebElement el : expiryYearDropDownList){
-            if(el.getText().equalsIgnoreCase(year))
-            {
-                LogUtils.logInfo(String.format("Choose '%s' year", year));
-                el.click();
-                break;
-            }
-        }
-    }
-
-    public void fillSecurityCode(String code) {
-        LogUtils.logInfo(String.format("Fill 'Security code' with '%s'", code));
-        securityCode.sendKeys(code);
-    }
-
-    public void fillCardHolderName(String holderName) {
-        LogUtils.logInfo(String.format("Fill 'Card Holder Name' with '%s'", holderName));
-        cardHolderName.sendKeys(holderName);
-    }
-
-    public void fillAddress(String address) {
-        LogUtils.logInfo(String.format("Fill 'Address Line 1' with '%s'", address));
-        addressLine1.sendKeys(address);
-    }
-
-    public void fillCity(String city) {
-        LogUtils.logInfo(String.format("Fill 'City' with '%s'", city));
-        this.city.sendKeys(city);
-    }
-
-    /***
-     * Use JavascriptExecutor to scroll down page
-     */
-    public void acceptTerms() {
-        LogUtils.logInfo("Scroll down page");
-        ScrollUtils.scrollDown(1500);
-        LogUtils.logInfo("Accept General terms");
-        acceptTermsCheckbox.click();
-    }
-
-    public void clickPayNowButton() {
-        LogUtils.logInfo("Click 'Pay Now' button");
-        payNowButton.click();
-    }
-
-    public WebElement getPaymentError() {
-        return paymentError;
-    }
-
-    public String getPaymentErrorTitleMessage() {
-        return paymentErrorTitleMessage.getText();
-    }
-
-    public WebElement getPlaneLoadingSpinner() {
-        return planeLoadingSpinner;
-    }
 }

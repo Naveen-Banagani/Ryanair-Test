@@ -8,58 +8,43 @@ import pages.FlightsSearchPage;
  */
 public class FlightsSearchPageSteps {
 
-    private FlightsSearchPage page;
+	private FlightsSearchPage page;
 
-    public FlightsSearchPageSteps(){
-        page = new FlightsSearchPage();
-    }
+	public FlightsSearchPageSteps() {
+		page = new FlightsSearchPage();
+	}
 
-    @When("^I choose flight type One Way$")
-    public void iChooseFlightTypeOneWay() {
-        page.clickOneWayTrip();
-    }
+	@When("^I choose flight type One Way$")
+	public void iChooseFlightTypeOneWay() {
+		page.clickOneWayTrip();
+	}
 
-    @When("^I enter Departure airport '([^\"]*)' and Destination airport '([^\"]*)'$")
-    public void iEnterAirportDetails(String fromAirport, String toAirport) {
-        page.fillDepartureAirport(fromAirport);
-        page.fillDestinationAirport(toAirport);
-        page.clickContinueButton();
-    }
+	@When("^I enter Departure airport '([^\"]*)' and Destination airport '([^\"]*)'$ on 12/06/2021")
+	public void iEnterAirportDetails(String fromAirport, String toAirport) {
+		page.fillDepartureAirport(fromAirport);
+		page.fillDestinationAirport(toAirport);
+		page.manchester();
+		page.fillFlyOutDay();
+	}
 
-    @When("^I enter fly out date on '([^\"]*)/([^\"]*)/([^\"]*)'$")
-    public void iEnterFlyOutDate(String dd, String mm, String yyyy) {
-        page.fillFlyOutDay(dd);
-        page.fillFlyOutMonth(mm);
-        page.fillFlyOutYear(yyyy);
-    }
+	@When("^I add adult passenger$")
+	public void iAddAdultPassenger() {
+		page.addAdultPassenger();
+		page.addChildPassenger();
 
-    @When("^I add adult passenger$")
-    public void iAddAdultPassenger(){
-        page.openPassengersDropDown();
-        page.addAdultPassenger();
-        page.closePassengersDropDown();
-    }
+	}
 
-    @When("^I add child passenger$")
-    public void iAddChildPassenger(){
-        page.openPassengersDropDown();
-        page.addChildPassenger();
-        page.closePassengersDropDown();
-    }
+	@When("^I proceed by clicking ‘Let’s go’$")
+	public void iProceedByClickingLetsGo() {
+		page.clickSearchButton();
+	}
 
-    @When("^I proceed by clicking ‘Let’s go’$")
-    public void iProceedByClickingLetsGo() {
-        page.clickLetsGoButton();
-    }
-
-    @When("^I make a search for booking from '([^\"]*)' to '([^\"]*)' on '([^\"]*)/([^\"]*)/([^\"]*)' for 2 adults and 1 child$")
-    public void iMakeFlightSearch(String fromAirport, String toAirport, String dd, String mm, String yyyy) {
-        iChooseFlightTypeOneWay();
-        iEnterAirportDetails(fromAirport, toAirport);
-        iAddAdultPassenger();
-        iAddChildPassenger();
-        iEnterFlyOutDate(dd, mm, yyyy);
-        iProceedByClickingLetsGo();
-    }
+	@When("^I make a search for booking from '([^\"]*)' to '([^\"]*)'  for 2 adults")
+	public void iMakeFlightSearch(String fromAirport, String toAirport) {
+		iChooseFlightTypeOneWay();
+		iEnterAirportDetails(fromAirport, toAirport);
+		iAddAdultPassenger();
+		iProceedByClickingLetsGo();
+	}
 
 }
