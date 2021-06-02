@@ -471,3 +471,15 @@
 2021 Jun 02 15:15:34 INFO  LogUtils.logInfo - Accept General terms
 2021 Jun 02 15:15:34 INFO  LogUtils.logInfo - Click on PayNow Button
 2021 Jun 02 15:16:13 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
+2021 Jun 02 16:10:03 INFO  LogUtils.logInfo - ----------------------------Starting the test----------------------------------------------
+2021 Jun 02 16:10:13 DEBUG LogUtils.logDebug - Chrome driver is created
+2021 Jun 02 16:10:30 INFO  LogUtils.logInfo - I'm on 'https://www.ryanair.com/ie/en' page
+2021 Jun 02 16:10:30 INFO  LogUtils.logInfo - Click Allow
+2021 Jun 02 16:10:30 INFO  LogUtils.logInfo - Click 'Log in' 
+2021 Jun 02 16:10:31 INFO  LogUtils.logInfo - Fill 'Email address' with 'naveenbanagani401@gmail.com'
+2021 Jun 02 16:10:47 INFO  LogUtils.logInfo - Fill 'Password' with '***********'
+2021 Jun 02 16:10:49 INFO  LogUtils.logInfo - Click 'Log in' button
+2021 Jun 02 16:10:50 INFO  LogUtils.logInfo - Click 'One Way' trip
+2021 Jun 02 16:10:51 INFO  LogUtils.logInfo - Fill departure airport 'Dublin'
+2021 Jun 02 16:10:52 INFO  LogUtils.logInfo - Fill destination airport 'Manchester'
+2021 Jun 02 16:11:30 INFO  LogUtils.logInfo - ---------------------------The test is completed-------------------------------------------
