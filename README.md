@@ -16,7 +16,7 @@ This project automates a booking up to a declined payment on https://www.ryanair
 Software to be pre-installed :
 
 - Install JDK in your machine
-- Maven - latest version here https://maven.apache.org/download.cgi ` note that both tools should be set to environment variables
+- Maven
 
 - Clone repository git clone`https://github.com/Naveen-Banagani/Ryanair-Test.git
 - Open File -\&gt; New -\&gt; Project from Existing Source -\&gt; Select ../RyanairTest/pom.xml -\&gt; Right Click on Run\&gt; Run as Maven Test
